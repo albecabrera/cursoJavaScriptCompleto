@@ -13,7 +13,7 @@ console.log(`Datum: ${datum_1}`);
 
 let titel_2 = prompt("Titel 2");
 console.log(`Titel: ${titel_2}`);
-let typ_2 = prompt("Typ (Einahme oder Ausgabe):");
+let typ_2 = prompt("Typ (Einahme oder Ausgabe)");
 console.log("Typ: ${typ_2}");
 let betrag_2 = prompt("Betrag (in Cent):");
 console.log(betrag_2);
